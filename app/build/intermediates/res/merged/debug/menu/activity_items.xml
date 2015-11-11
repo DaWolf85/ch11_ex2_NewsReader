@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/menu_refresh"
+          android:title="Refresh"
+          android:icon="@drawable/ic_refresh"
+          android:showAsAction="ifRoom" />
+
+</menu><!-- From: file:/C:/Users/Andy/StudioProjects/ch11_ex2_NewsReader/app/src/main/res/menu/activity_items.xml -->
